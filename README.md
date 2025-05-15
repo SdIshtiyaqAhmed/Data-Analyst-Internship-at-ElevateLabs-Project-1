@@ -14,10 +14,10 @@ The project utilises a variety of tools and technologies to preprocess the data,
 
 ### 1. Programming Language & Modules
 **Python:** For data cleaning, data preprocessing, exploratory data analysis, and developing prediction models. These are the required modules from the Python programming language for this project:
-- Pandas: Data manipulation and transformation
-- Seaborn: Statistical data visualisation
-- Matplotlib: General-purpose plotting
-- Scikit-learn (Sklearn): For building a logistic regression model
+- **Pandas:** Data manipulation and transformation
+- **Seaborn:** Statistical data visualisation
+- **Matplotlib:** General-purpose plotting
+- **Scikit-learn** (Sklearn): For building a logistic regression model
 
 ### 2.	Machine Learning Model
 **Logistic Regression Classification:** A classification model that can be used to predict the likelihood of employee attrition.
@@ -31,7 +31,7 @@ The project utilises a variety of tools and technologies to preprocess the data,
 **Power BI:** Create interactive dashboards for visualizing the insights.
 
 ## Steps Involved in Building the Project
-**1.	Data Collection:** Gather historical employee data from various sources.
+**1.	Data Collection:** The dataset used in this project was downloaded from [kaggle](https://www.kaggle.com/datasets/haseefalam/hr-analystics-dataset).
 
 **2.	Data Preprocessing:** Handle missing values, inconsistent data, and prepare data for analysis.
 
